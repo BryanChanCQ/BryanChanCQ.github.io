@@ -1,15 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Tags - 标签 - 陈志鹏的博客</title>
-    <link>http://localhost:54530/tags/</link>
+    <link>BryanChanCQ.github.io/tags/</link>
     <description>Tags - 标签 | 陈志鹏的博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 13 Aug 2024 22:50:12 &#43;0800</lastBuildDate><atom:link href="http://localhost:54530/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>Draft</title>
-  <link>http://localhost:54530/tags/draft/</link>
-  <pubDate>Tue, 13 Aug 2024 22:50:12 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:54530/tags/draft/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="BryanChanCQ.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
