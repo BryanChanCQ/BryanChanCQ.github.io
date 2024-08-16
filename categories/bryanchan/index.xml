@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Bryanchan - 分类 - 陈志鹏的博客</title>
-    <link>http://localhost:55016/categories/bryanchan/</link>
+    <link>https://example.org/categories/bryanchan/</link>
     <description>Bryanchan - 分类 | 陈志鹏的博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</lastBuildDate><atom:link href="http://localhost:55016/categories/bryanchan/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/bryanchan/" rel="self" type="application/rss+xml" /><item>
   <title>第一篇练习笔记</title>
-  <link>http://localhost:55016/posts/d3f2fc5/</link>
+  <link>https://example.org/posts/d3f2fc5/</link>
   <pubDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:55016/posts/d3f2fc5/</guid>
+  <guid>https://example.org/posts/d3f2fc5/</guid>
   <description><![CDATA[写些什么呢没有想好]]></description>
 </item>
 </channel>
