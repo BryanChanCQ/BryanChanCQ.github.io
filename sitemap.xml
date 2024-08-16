@@ -2,16 +2,16 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://example.org/posts/d3f2fc5/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/categories/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/tags/draft/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/categories/draft/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/posts/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/tags/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/posts/bc0e331/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/tags/bryanchan/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/categories/bryanchan/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/posts/thrid/</loc><lastmod>2024-08-14T21:20:43&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/posts/second/</loc><lastmod>2024-08-14T21:08:45&#43;08:00</lastmod></url><url>
-      <loc>https://example.org/posts/583bc6c/</loc><lastmod>2024-08-13T22:50:12&#43;08:00</lastmod></url></urlset>
+      <loc>http://localhost:58628/posts/d3f2fc5/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/categories/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/tags/draft/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/categories/draft/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/posts/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/tags/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/posts/bc0e331/</loc><lastmod>2024-08-16T20:31:49&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/tags/bryanchan/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/categories/bryanchan/</loc><lastmod>2024-08-14T22:08:48&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/posts/thrid/</loc><lastmod>2024-08-14T21:20:43&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/posts/second/</loc><lastmod>2024-08-14T21:08:45&#43;08:00</lastmod></url><url>
+      <loc>http://localhost:58628/posts/583bc6c/</loc><lastmod>2024-08-13T22:50:12&#43;08:00</lastmod></url></urlset>
