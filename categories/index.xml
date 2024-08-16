@@ -1,22 +1,38 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Categories - 分类 - 陈志鹏的博客</title>
-    <link>http://localhost:58628/categories/</link>
+    <link>https://example.org/categories/</link>
     <description>Categories - 分类 | 陈志鹏的博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</lastBuildDate><atom:link href="http://localhost:58628/categories/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>Docker</title>
+  <link>https://example.org/categories/docker/</link>
+  <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/categories/docker/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Podman</title>
+  <link>https://example.org/categories/podman/</link>
+  <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/categories/podman/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Draft</title>
-  <link>http://localhost:58628/categories/draft/</link>
+  <link>https://example.org/categories/draft/</link>
   <pubDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/categories/draft/</guid>
+  <guid>https://example.org/categories/draft/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Bryanchan</title>
-  <link>http://localhost:58628/categories/bryanchan/</link>
+  <link>https://example.org/categories/bryanchan/</link>
   <pubDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/categories/bryanchan/</guid>
+  <guid>https://example.org/categories/bryanchan/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

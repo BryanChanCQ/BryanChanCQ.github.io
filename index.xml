@@ -1,48 +1,56 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>陈志鹏的博客</title>
-    <link>http://localhost:58628/</link>
+    <link>https://example.org/</link>
     <description>陈志鹏的博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</lastBuildDate>
-      <atom:link href="http://localhost:58628/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</lastBuildDate>
+      <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>第一篇练习笔记</title>
-  <link>http://localhost:58628/posts/d3f2fc5/</link>
+  <link>https://example.org/posts/d3f2fc5/</link>
   <pubDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/posts/d3f2fc5/</guid>
+  <guid>https://example.org/posts/d3f2fc5/</guid>
   <description><![CDATA[写些什么呢没有想好]]></description>
 </item>
 <item>
+  <title>Six</title>
+  <link>https://example.org/posts/0b554fe/</link>
+  <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/posts/0b554fe/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>关于podman的笔记</title>
-  <link>http://localhost:58628/posts/bc0e331/</link>
+  <link>https://example.org/posts/bc0e331/</link>
   <pubDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/posts/bc0e331/</guid>
+  <guid>https://example.org/posts/bc0e331/</guid>
   <description><![CDATA[关于podman配置镜像加速]]></description>
 </item>
 <item>
   <title>Thrid</title>
-  <link>http://localhost:58628/posts/thrid/</link>
+  <link>https://example.org/posts/thrid/</link>
   <pubDate>Wed, 14 Aug 2024 21:20:43 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/posts/thrid/</guid>
+  <guid>https://example.org/posts/thrid/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Second</title>
-  <link>http://localhost:58628/posts/second/</link>
+  <link>https://example.org/posts/second/</link>
   <pubDate>Wed, 14 Aug 2024 21:08:45 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/posts/second/</guid>
+  <guid>https://example.org/posts/second/</guid>
   <description><![CDATA[这是我的第二篇博客 第一个标题 测试 sdfsdf 第二个标题 第三个标题 public static void main(){ }]]></description>
 </item>
 <item>
   <title>My First Post</title>
-  <link>http://localhost:58628/posts/583bc6c/</link>
+  <link>https://example.org/posts/583bc6c/</link>
   <pubDate>Tue, 13 Aug 2024 22:50:12 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/posts/583bc6c/</guid>
+  <guid>https://example.org/posts/583bc6c/</guid>
   <description><![CDATA[<h1 id="this-my-blog" class="heading-element"><span>this my blog</span>
   <a href="#this-my-blog" class="heading-mark">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>

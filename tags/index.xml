@@ -1,22 +1,38 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Tags - 标签 - 陈志鹏的博客</title>
-    <link>http://localhost:58628/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Tags - 标签 | 陈志鹏的博客</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</lastBuildDate><atom:link href="http://localhost:58628/tags/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Docker</title>
+  <link>https://example.org/tags/docker/</link>
+  <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/tags/docker/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Podman</title>
+  <link>https://example.org/tags/podman/</link>
+  <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/tags/podman/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Draft</title>
-  <link>http://localhost:58628/tags/draft/</link>
+  <link>https://example.org/tags/draft/</link>
   <pubDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/tags/draft/</guid>
+  <guid>https://example.org/tags/draft/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Bryanchan</title>
-  <link>http://localhost:58628/tags/bryanchan/</link>
+  <link>https://example.org/tags/bryanchan/</link>
   <pubDate>Wed, 14 Aug 2024 22:08:48 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>http://localhost:58628/tags/bryanchan/</guid>
+  <guid>https://example.org/tags/bryanchan/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
