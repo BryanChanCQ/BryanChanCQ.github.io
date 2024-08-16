@@ -4,12 +4,20 @@
     <link>https://example.org/categories/podman/</link>
     <description>Podman - 分类 | 陈志鹏的博客</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/podman/" rel="self" type="application/rss+xml" /><item>
-  <title>apline中的go打包</title>
+  <title>alpine中的go打包</title>
   <link>https://example.org/posts/0b554fe/</link>
   <pubDate>Fri, 16 Aug 2024 22:27:19 &#43;0800</pubDate>
   <author>作者</author>
   <guid>https://example.org/posts/0b554fe/</guid>
   <description><![CDATA[go正常打包的二进制在alpine环境中不能正常执行的解决方案]]></description>
+</item>
+<item>
+  <title>关于podman的笔记</title>
+  <link>https://example.org/posts/bc0e331/</link>
+  <pubDate>Fri, 16 Aug 2024 20:31:49 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://example.org/posts/bc0e331/</guid>
+  <description><![CDATA[关于podman配置镜像加速]]></description>
 </item>
 </channel>
 </rss>
